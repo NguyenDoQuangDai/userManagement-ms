@@ -16,3 +16,10 @@ Dịch vụ này chịu trách nhiệm xử lý các nghiệp vụ liên quan đ
 - Được xây dựng theo mô hình **Microservices**.  
 - Giao tiếp với các dịch vụ khác thông qua **REST API**.  
 - Hỗ trợ mở rộng và tích hợp dễ dàng với hệ thống thương mại điện tử.
+
+## ⚡ Technologies and Libraries
+- **Java 17**  
+- **Spring Boot 3**  
+- **Spring Security**  
+- **JWT**  
+- **MySQL**  
